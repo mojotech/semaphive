@@ -1,0 +1,16 @@
+{
+  "name": "semaphive",
+  "version": "0.1.0",
+  "description": "A node.js client for the semaphore app API",
+  "dependencies": {
+    "tired": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wkf/semaphive.git"
+  },
+  "keywords": ["semaphoreapp"],
+  "author": "Will Farrell",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
